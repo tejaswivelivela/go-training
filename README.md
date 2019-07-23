@@ -35,3 +35,23 @@ dimensional arrays.
 mapexample.go
 ----------------------------------------------
 Go Program that has Map example data types.
+
+----------------------------------------------
+sliceexample.go
+----------------------------------------------
+Go Program that has Slice as key data type giving a more powerful interface to sequences than arrays.
+
+----------------------------------------------
+functionsexample.go
+----------------------------------------------
+Go Program that has functions with few different examples.
+
+----------------------------------------------
+variadicexample.go
+----------------------------------------------
+Go Program that has variadic function with multiple trailing arguments.
+
+----------------------------------------------
+closureex.go
+----------------------------------------------
+closure acts as an anonymous functions in Go Programming.
